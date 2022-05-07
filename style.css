@@ -3,7 +3,9 @@ h1{
     font-size :128px;
     text-align:center;
 }
-
+p{
+    font-size:32px;
+}
 body{
     background-color:slategray;
 }
